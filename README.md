@@ -1,4 +1,3 @@
-# farmaflash-support
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -18,6 +17,10 @@
 
     <p>
         <strong>Email:</strong> mertcan.kolsuz@gmail.com
+    </p>
+
+    <p style="margin-top:40px; font-size:12px; color:#666;">
+        © 2026 Mertcan Kolsuz
     </p>
 </body>
 </html>
