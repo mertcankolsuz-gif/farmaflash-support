@@ -1,26 +1,12 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <title>FarmaFlash Support</title>
-</head>
-<body style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; padding: 40px;">
-    <h1>FarmaFlash</h1>
-    <p>
-        FarmaFlash is an educational application for doctors, dentists,
-        pharmacists and students.
-    </p>
+FarmaFlash
 
-    <p>
-        For support or feedback, please contact:
-    </p>
+FarmaFlash is an educational application for doctors, dentists,
+pharmacists and students.
 
-    <p>
-        <strong>Email:</strong> mertcan.kolsuz@gmail.com
-    </p>
+For feedback or support, users may contact the developer or leave
+a review on the App Store.
 
-    <p style="margin-top:40px; font-size:12px; color:#666;">
-        © 2026 Mertcan Kolsuz
-    </p>
-</body>
-</html>
+Contact:
+Email: ecz.mertcankolsuz@gmail.com
+
+© 2026 Mertcan Kolsuz
